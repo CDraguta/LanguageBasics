@@ -1,0 +1,7 @@
+C:\Users\draguta.corodi\source\repos\LanguageBasics\LanguageBasics\bin\Debug\LanguageBasics.exe.config
+C:\Users\draguta.corodi\source\repos\LanguageBasics\LanguageBasics\bin\Debug\LanguageBasics.exe
+C:\Users\draguta.corodi\source\repos\LanguageBasics\LanguageBasics\bin\Debug\LanguageBasics.pdb
+C:\Users\draguta.corodi\source\repos\LanguageBasics\LanguageBasics\obj\Debug\LanguageBasics.csproj.AssemblyReference.cache
+C:\Users\draguta.corodi\source\repos\LanguageBasics\LanguageBasics\obj\Debug\LanguageBasics.csproj.CoreCompileInputs.cache
+C:\Users\draguta.corodi\source\repos\LanguageBasics\LanguageBasics\obj\Debug\LanguageBasics.exe
+C:\Users\draguta.corodi\source\repos\LanguageBasics\LanguageBasics\obj\Debug\LanguageBasics.pdb
